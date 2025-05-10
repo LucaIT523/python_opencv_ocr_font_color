@@ -1,0 +1,1 @@
+# python_opencv_ocr_font_color
